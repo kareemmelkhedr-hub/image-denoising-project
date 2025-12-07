@@ -1,8 +1,9 @@
 This project applies several spatial filtering techniques to reduce noise in images using **Python**, **OpenCV**, and **Jupyter Notebook**.
 
-- `FINAL_IMAGE_DENOISING.ipynb` – Main notebook with all implementation steps.
-- `imgNoise.jpg` – Noisy input image.
-- `After Denoising.jpg` – Sample output after applying denoising filters.
+- [`FINAL_IMAGE_DENOISING.ipynb`](notebook/FINAL_IMAGE_DENOISING.ipynb) – Main notebook with all implementation steps.
+- [`imgNoise.jpg`](images/imgNoise.jpg) – Noisy input image.
+- [`After Denoising.jpg`](images/After%20Denoising.jpg) – Sample output after applying denoising filters.
+
 
 ---
 
@@ -31,6 +32,16 @@ The notebook demonstrates visual comparisons of:
 - Proposed final output  
 
 Screenshots of intermediate and final results are included in the notebook.
+### 📷 Sample Results
+
+**Noisy Image**
+
+![Noisy Image](images/imgNoise.jpg)
+
+**After Denoising (Proposed Filter)**
+
+![After Denoising](images/After%20Denoising.jpg)
+
 
 ---
 
